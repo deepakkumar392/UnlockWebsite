@@ -6,7 +6,8 @@
 
 
 
-![48-485714](https://user-images.githubusercontent.com/64240810/147684923-4059b886-5d96-4d6e-aa6f-111d6855b118.jpg)
+![Information-Technology-1](https://user-images.githubusercontent.com/64240810/147685326-84747b85-27f9-4275-8f6e-652f4aa30a85.jpg)
+
 
 
 
@@ -22,13 +23,13 @@
 
 
 ```
-                                          _     _
-                                        o' \.=./ `o
-                                           (o o)          
-                                       ooO--(_)--Ooo
+                                                                         _     _
+                                                                       o' \.=./ `o
+                                                                          (o o)          
+                                                                      ooO--(_)--Ooo
                                        
-                                          O S I F
-                            [open source Information Technology facebook]
+                                                                         O S I F
+                                                      [open source Information Technology facebook]
 ```
 OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
