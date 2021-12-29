@@ -12,9 +12,6 @@
 ```
 OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
-![information](https://user-images.githubusercontent.com/64240810/147684251-d2476655-1432-40cb-9493-dfa3c1020274.jpg)
-
-
 
 # [ Installation ]
 ```
