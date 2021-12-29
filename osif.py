@@ -74,13 +74,13 @@ def show_program():
  ------------------------------------------------------
 
     Author     Debby Anggraini 'CiKu370'
-    Name       OSIF 'Open Source Information Facebook'
-    CodeName   D3b2y
+    Name       OSIF 'Open Source Information Technology Facebook'
+    CodeName   Unlock information
     version    full version
-    Date       16/05/2018 09:35:12
-    Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Date       1/01/2022 09:35:12
+    Team       IT Security
+    Email      Dp89608@gmail.com
+    Telegram   @Lx_hacker
 
 * if you find any errors or problems , please contact
   author
