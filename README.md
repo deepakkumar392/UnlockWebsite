@@ -1,6 +1,3 @@
-
-                                        # This project will be stopped for some time to come.
-                                        
 <h1 align="center">Hi 👋, I'm PATEL Lx Deepak</h1>
 <h3 align="center">Information Technology (IT)</h3>
 
@@ -30,9 +27,16 @@
 
 
 
+                                         # This project will be stopped for some time to come.
+                                         
+                                         
+
+
 
 
 ![Information-Technology-1](https://user-images.githubusercontent.com/64240810/147685326-84747b85-27f9-4275-8f6e-652f4aa30a85.jpg)
+
+
 
 
 
@@ -58,6 +62,7 @@
                                   [open source Information Technology facebook]
 ```
 OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
+
 
 
 # [ Installation ]
