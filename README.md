@@ -81,10 +81,27 @@ $ pip2 install -r requirements.txt
 ```
 $ python2 osif.py
 ```
+
+
 # [ Screenshot ]
 
 
-![osif2](https://user-images.githubusercontent.com/64240810/147684588-1b1394b3-60f5-4921-bd3a-d2feed15ba07.png)
+
+![kali-desktop-xfce](https://user-images.githubusercontent.com/64240810/147726071-fce2ba74-51ac-424d-9fb6-494dfdb04fe3.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 * If you are confused how to use it, please type 'help' to display the help menu
